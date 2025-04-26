@@ -1,0 +1,6 @@
+{
+  "name": "rollback",
+  "tree": {
+    "$path": "src"
+  }
+}
